@@ -21,6 +21,15 @@ body {
   margin: 0;
 }
 
+.panel {
+  display: flex;
+  border-radius: 50px;
+  background-size: auto 100%;
+  background-position: center;
+  height: 60vh;
+  margin: 20px;
+}
+
 .footer {
   position: fixed;
   font-family: 'Roboto', sans-serif;
